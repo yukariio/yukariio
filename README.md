@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/yukariio/img/master/img-wave.gif" width="25px">
 
+<p>
+  <img src="https://count.getloli.com/get/@:yukariio?theme=rule34" alt=":yukariio" />
+</p>
 <!--
 **yukariio/yukariio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
